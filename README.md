@@ -1,8 +1,5 @@
-# webdevpractisewithflask
 
-
-
-<h1> Notes Flask Web App </h1>
+<h1> Notes Web App </h1>
 
 
 <h2> What it does </h2>
